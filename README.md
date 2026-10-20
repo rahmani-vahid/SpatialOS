@@ -128,4 +128,4 @@ This repository is maintained by [Vahid Rahmani](https://github.com/rahmani-vahi
 
 It includes Recast/Detour code originally authored by Mikko Mononen, along with third-party components such as FastLZ, METIS, SDL-related binaries, and Improbable SDK headers. Preserve the copyright and license notices shipped with those components.
 
-No top-level license for the repository's custom code is present in the reviewed snapshot. Consult the applicable component notices and clarify licensing for the custom implementation before redistribution or reuse.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
